@@ -19,7 +19,7 @@ NGINX Load Balancer Configuration for Docker
  https://user-images.githubusercontent.com/53979557/120241164-d6bd8a80-c26a-11eb-81dd-e749cd34b591.gif
 
 
- ### First Step:  Building the NGINX image from github repo and pushing it to Docker Hub
+ ### Second Step:  Building the NGINX image from github repo and pushing it to Docker Hub
 
 $docker build -t catalin-nginx-balancer-conf:1.0 https://github.com/cstoicescu/NGINX_Docker.git 
 
