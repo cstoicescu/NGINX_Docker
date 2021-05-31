@@ -2,7 +2,6 @@
 NGINX Load Balancer Configuration for Docker
 
 
-# WhoAmI_NodeJs_Docker 
 
 ## *Part 2* | NGINX Config and DockerFile
 
