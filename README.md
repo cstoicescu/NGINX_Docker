@@ -29,6 +29,8 @@ $docker container ls
 
 $docker login
 
-$docker push cstoicescu/catalin-nginx-balancer-conf:tagname  
+$docker push cstoicescu/catalin-nginx-balancer-conf:tagname   
 
- 
+### At this point, your DockerHub should have the 2 repos ( Nodejs and Nginx )  
+
+<img src="https://i.imgur.com/wWhLb3z.jpg" />  
